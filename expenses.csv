@@ -1,0 +1,7 @@
+expenses_id,user_id,category_name,amount,payment_method
+20,1,sundry expenses,211,CASH
+21,2,miscellaneous expenses,1050,GPAY
+22,3,education expenses,2640,CARD
+23,4,education expenses,5000,CASH
+24,5,office use,7000,GPAY
+25,6,machinery purchase,20000,CARD
